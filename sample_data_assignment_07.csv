@@ -1,0 +1,1001 @@
+Student,Maths,Python,Attendance,City
+Aarav_0001,62,72,63,Mumbai
+Aditi_0002,75,85,97,Pune
+Aditya_0003,76,73,65,Thane
+Akanksha_0004,66,73,65,Thane
+Amit_0005,59,46,74,Pune
+Ananya_0006,92,88,63,Nagpur
+Aniket_0007,57,46,78,Thane
+Anjali_0008,64,52,96,Aurangabad
+Arjun_0009,94,80,66,Nagpur
+Bhavna_0010,64,80,64,Pune
+Chetan_0011,83,94,94,Thane
+Diya_0012,72,78,89,Kolhapur
+Esha_0013,64,64,75,Mumbai
+Farhan_0014,83,92,91,Kolhapur
+Gauri_0015,75,87,64,Mumbai
+Harsh_0016,83,77,81,Nashik
+Isha_0017,82,72,64,Kolhapur
+Karan_0018,81,72,98,Navi Mumbai
+Kavya_0019,89,79,65,Aurangabad
+Krishna_0020,90,72,63,Aurangabad
+Manav_0021,97,95,78,Thane
+Meera_0022,91,82,89,Kolhapur
+Neha_0023,67,53,91,Pune
+Om_0024,75,62,68,Nagpur
+Pooja_0025,75,80,65,Nashik
+Rahul_0026,78,85,77,Nashik
+Riya_0027,82,75,86,Kolhapur
+Rohan_0028,93,90,69,Mumbai
+Sakshi_0029,53,58,74,Pune
+Samar_0030,87,76,76,Aurangabad
+Sneha_0031,42,53,94,Kolhapur
+Tanvi_0032,95,89,68,Pune
+Varun_0033,91,86,85,Thane
+Vedant_0034,75,68,90,Thane
+Yash_0035,47,45,73,Navi Mumbai
+Zoya_0036,51,60,98,Pune
+Aarav_0037,44,64,69,Mumbai
+Aditi_0038,80,63,64,Nagpur
+Aditya_0039,89,83,100,Aurangabad
+Akanksha_0040,79,73,90,Mumbai
+Amit_0041,60,61,90,Navi Mumbai
+Ananya_0042,59,63,66,Kolhapur
+Aniket_0043,69,61,93,Pune
+Anjali_0044,67,64,69,Pune
+Arjun_0045,80,93,65,Aurangabad
+Bhavna_0046,82,78,82,Nagpur
+Chetan_0047,89,90,81,Nagpur
+Diya_0048,100,85,75,Thane
+Esha_0049,58,70,91,Kolhapur
+Farhan_0050,39,49,90,Aurangabad
+Gauri_0051,72,71,82,Navi Mumbai
+Harsh_0052,71,64,74,Mumbai
+Isha_0053,67,60,81,Nagpur
+Karan_0054,87,89,60,Navi Mumbai
+Kavya_0055,90,100,65,Mumbai
+Krishna_0056,84,70,90,Nashik
+Manav_0057,85,77,65,Thane
+Meera_0058,79,71,70,Nashik
+Neha_0059,46,52,97,Navi Mumbai
+Om_0060,83,100,98,Navi Mumbai
+Pooja_0061,91,86,95,Nashik
+Rahul_0062,39,61,66,Nashik
+Riya_0063,71,73,61,Aurangabad
+Rohan_0064,60,69,75,Kolhapur
+Sakshi_0065,71,69,68,Pune
+Samar_0066,74,80,93,Thane
+Sneha_0067,74,89,69,Pune
+Tanvi_0068,90,73,98,Pune
+Varun_0069,52,53,90,Mumbai
+Vedant_0070,74,85,93,Navi Mumbai
+Yash_0071,61,47,75,Nagpur
+Zoya_0072,56,60,92,Navi Mumbai
+Aarav_0073,73,77,88,Kolhapur
+Aditi_0074,93,98,92,Nagpur
+Aditya_0075,90,98,92,Navi Mumbai
+Akanksha_0076,77,88,76,Nagpur
+Amit_0077,70,81,67,Thane
+Ananya_0078,76,70,75,Thane
+Aniket_0079,48,53,67,Nashik
+Anjali_0080,100,96,69,Aurangabad
+Arjun_0081,60,55,66,Thane
+Bhavna_0082,74,78,70,Thane
+Chetan_0083,82,82,86,Nagpur
+Diya_0084,70,64,83,Pune
+Esha_0085,76,75,88,Pune
+Farhan_0086,72,80,99,Aurangabad
+Gauri_0087,72,75,74,Mumbai
+Harsh_0088,51,53,62,Nashik
+Isha_0089,79,61,87,Aurangabad
+Karan_0090,67,82,92,Navi Mumbai
+Kavya_0091,92,86,77,Pune
+Krishna_0092,87,97,64,Aurangabad
+Manav_0093,59,43,76,Mumbai
+Meera_0094,83,80,76,Mumbai
+Neha_0095,67,79,95,Thane
+Om_0096,74,61,62,Nagpur
+Pooja_0097,50,55,63,Nashik
+Rahul_0098,59,72,79,Nagpur
+Riya_0099,70,74,71,Aurangabad
+Rohan_0100,60,70,62,Pune
+Sakshi_0101,62,57,95,Nagpur
+Samar_0102,85,79,88,Mumbai
+Sneha_0103,100,95,91,Thane
+Tanvi_0104,79,78,74,Kolhapur
+Varun_0105,72,72,68,Thane
+Vedant_0106,61,66,60,Mumbai
+Yash_0107,100,88,87,Nashik
+Zoya_0108,43,55,92,Aurangabad
+Aarav_0109,83,87,62,Navi Mumbai
+Aditi_0110,54,59,88,Pune
+Aditya_0111,65,66,95,Kolhapur
+Akanksha_0112,54,64,73,Kolhapur
+Amit_0113,49,61,84,Mumbai
+Ananya_0114,76,86,72,Nagpur
+Aniket_0115,94,72,65,Aurangabad
+Anjali_0116,47,57,97,Pune
+Arjun_0117,63,74,79,Nagpur
+Bhavna_0118,61,61,69,Thane
+Chetan_0119,81,75,69,Aurangabad
+Diya_0120,97,83,62,Thane
+Esha_0121,98,88,93,Pune
+Farhan_0122,99,100,74,Mumbai
+Gauri_0123,40,45,100,Kolhapur
+Harsh_0124,56,60,95,Pune
+Isha_0125,78,100,94,Nagpur
+Karan_0126,77,71,89,Mumbai
+Kavya_0127,87,74,93,Mumbai
+Krishna_0128,76,72,76,Nagpur
+Manav_0129,58,73,89,Navi Mumbai
+Meera_0130,64,79,78,Pune
+Neha_0131,97,99,72,Mumbai
+Om_0132,80,88,76,Aurangabad
+Pooja_0133,95,83,60,Navi Mumbai
+Rahul_0134,56,51,66,Nagpur
+Riya_0135,96,92,93,Aurangabad
+Rohan_0136,81,83,67,Nagpur
+Sakshi_0137,59,74,61,Aurangabad
+Samar_0138,69,85,88,Aurangabad
+Sneha_0139,68,70,64,Mumbai
+Tanvi_0140,70,65,76,Kolhapur
+Varun_0141,65,68,92,Aurangabad
+Vedant_0142,67,58,74,Navi Mumbai
+Yash_0143,81,71,70,Pune
+Zoya_0144,90,85,85,Aurangabad
+Aarav_0145,60,60,84,Kolhapur
+Aditi_0146,55,47,80,Kolhapur
+Aditya_0147,66,71,60,Aurangabad
+Akanksha_0148,65,58,85,Thane
+Amit_0149,77,88,87,Aurangabad
+Ananya_0150,49,46,63,Aurangabad
+Aniket_0151,82,87,77,Thane
+Anjali_0152,80,78,83,Thane
+Arjun_0153,63,61,85,Nagpur
+Bhavna_0154,44,58,88,Nashik
+Chetan_0155,88,96,63,Nashik
+Diya_0156,63,63,81,Aurangabad
+Esha_0157,65,79,76,Thane
+Farhan_0158,86,90,90,Thane
+Gauri_0159,50,67,70,Mumbai
+Harsh_0160,67,68,95,Nagpur
+Isha_0161,76,82,87,Nashik
+Karan_0162,79,82,65,Nashik
+Kavya_0163,76,63,80,Nagpur
+Krishna_0164,69,81,72,Pune
+Manav_0165,76,79,93,Nagpur
+Meera_0166,70,74,63,Navi Mumbai
+Neha_0167,73,68,68,Nagpur
+Om_0168,51,52,84,Thane
+Pooja_0169,93,94,79,Pune
+Rahul_0170,47,61,90,Navi Mumbai
+Riya_0171,40,52,93,Navi Mumbai
+Rohan_0172,73,71,74,Nashik
+Sakshi_0173,63,52,89,Mumbai
+Samar_0174,97,76,60,Nashik
+Sneha_0175,70,55,79,Nashik
+Tanvi_0176,86,96,100,Thane
+Varun_0177,100,87,66,Mumbai
+Vedant_0178,73,77,72,Thane
+Yash_0179,61,75,60,Pune
+Zoya_0180,81,88,77,Kolhapur
+Aarav_0181,86,96,93,Nagpur
+Aditi_0182,80,75,86,Aurangabad
+Aditya_0183,41,49,91,Thane
+Akanksha_0184,51,52,87,Kolhapur
+Amit_0185,67,55,81,Thane
+Ananya_0186,82,75,72,Pune
+Aniket_0187,79,74,64,Nagpur
+Anjali_0188,75,80,72,Nagpur
+Arjun_0189,74,77,78,Mumbai
+Bhavna_0190,92,98,71,Nagpur
+Chetan_0191,82,72,98,Nashik
+Diya_0192,64,71,61,Nashik
+Esha_0193,65,67,71,Thane
+Farhan_0194,88,78,67,Mumbai
+Gauri_0195,58,56,71,Navi Mumbai
+Harsh_0196,49,54,83,Kolhapur
+Isha_0197,71,71,60,Mumbai
+Karan_0198,57,68,86,Mumbai
+Kavya_0199,97,81,84,Kolhapur
+Krishna_0200,70,61,63,Navi Mumbai
+Manav_0201,61,69,88,Nagpur
+Meera_0202,69,75,61,Thane
+Neha_0203,73,67,62,Thane
+Om_0204,54,44,63,Aurangabad
+Pooja_0205,73,54,98,Kolhapur
+Rahul_0206,69,73,99,Pune
+Riya_0207,77,66,77,Aurangabad
+Rohan_0208,61,59,100,Mumbai
+Sakshi_0209,46,44,90,Navi Mumbai
+Samar_0210,70,77,91,Nashik
+Sneha_0211,74,71,79,Nashik
+Tanvi_0212,83,88,80,Navi Mumbai
+Varun_0213,80,65,92,Nagpur
+Vedant_0214,87,70,75,Thane
+Yash_0215,62,45,90,Kolhapur
+Zoya_0216,61,53,64,Aurangabad
+Aarav_0217,79,85,66,Thane
+Aditi_0218,91,85,71,Nagpur
+Aditya_0219,59,62,99,Nagpur
+Akanksha_0220,96,77,78,Aurangabad
+Amit_0221,73,65,83,Aurangabad
+Ananya_0222,60,70,75,Nashik
+Aniket_0223,60,59,78,Nagpur
+Anjali_0224,60,72,76,Nagpur
+Arjun_0225,86,79,66,Navi Mumbai
+Bhavna_0226,43,42,90,Nagpur
+Chetan_0227,77,69,78,Nagpur
+Diya_0228,46,53,98,Nagpur
+Esha_0229,53,60,71,Navi Mumbai
+Farhan_0230,84,78,66,Kolhapur
+Gauri_0231,52,64,81,Nashik
+Harsh_0232,46,50,62,Nagpur
+Isha_0233,48,53,83,Nashik
+Karan_0234,86,81,73,Pune
+Kavya_0235,86,86,64,Thane
+Krishna_0236,56,63,69,Mumbai
+Manav_0237,84,93,77,Thane
+Meera_0238,77,67,86,Pune
+Neha_0239,80,77,82,Thane
+Om_0240,64,77,72,Thane
+Pooja_0241,69,65,87,Nashik
+Rahul_0242,68,69,85,Kolhapur
+Riya_0243,91,74,68,Pune
+Rohan_0244,58,47,85,Mumbai
+Sakshi_0245,93,87,92,Nashik
+Samar_0246,58,58,70,Nashik
+Sneha_0247,45,56,91,Nagpur
+Tanvi_0248,61,60,90,Kolhapur
+Varun_0249,60,63,84,Mumbai
+Vedant_0250,100,90,100,Nagpur
+Yash_0251,89,98,72,Navi Mumbai
+Zoya_0252,67,57,62,Thane
+Aarav_0253,76,85,82,Mumbai
+Aditi_0254,54,55,62,Pune
+Aditya_0255,90,85,84,Navi Mumbai
+Akanksha_0256,93,84,86,Aurangabad
+Amit_0257,82,90,84,Kolhapur
+Ananya_0258,82,82,71,Pune
+Aniket_0259,57,55,89,Nagpur
+Anjali_0260,90,87,89,Nashik
+Arjun_0261,80,73,64,Nashik
+Bhavna_0262,73,73,65,Navi Mumbai
+Chetan_0263,86,73,62,Nashik
+Diya_0264,66,55,92,Mumbai
+Esha_0265,65,59,84,Nashik
+Farhan_0266,41,60,67,Nagpur
+Gauri_0267,61,57,70,Nagpur
+Harsh_0268,53,63,76,Nashik
+Isha_0269,77,68,89,Nashik
+Karan_0270,70,71,73,Aurangabad
+Kavya_0271,93,86,80,Kolhapur
+Krishna_0272,46,47,85,Nashik
+Manav_0273,86,90,84,Nashik
+Meera_0274,57,72,63,Kolhapur
+Neha_0275,83,84,97,Mumbai
+Om_0276,71,76,85,Kolhapur
+Pooja_0277,66,67,96,Nashik
+Rahul_0278,71,65,88,Nagpur
+Riya_0279,68,52,78,Aurangabad
+Rohan_0280,77,77,80,Pune
+Sakshi_0281,47,46,78,Thane
+Samar_0282,80,77,63,Nashik
+Sneha_0283,76,90,62,Pune
+Tanvi_0284,41,61,82,Aurangabad
+Varun_0285,60,57,94,Nagpur
+Vedant_0286,82,75,97,Nashik
+Yash_0287,62,72,90,Nashik
+Zoya_0288,46,55,69,Navi Mumbai
+Aarav_0289,46,66,69,Aurangabad
+Aditi_0290,71,65,63,Kolhapur
+Aditya_0291,96,96,88,Navi Mumbai
+Akanksha_0292,58,55,62,Pune
+Amit_0293,72,86,71,Nagpur
+Ananya_0294,49,53,60,Nagpur
+Aniket_0295,60,55,93,Thane
+Anjali_0296,82,95,79,Mumbai
+Arjun_0297,77,60,90,Pune
+Bhavna_0298,75,78,65,Navi Mumbai
+Chetan_0299,56,54,76,Nagpur
+Diya_0300,80,84,81,Aurangabad
+Esha_0301,84,93,100,Thane
+Farhan_0302,97,91,78,Nagpur
+Gauri_0303,59,45,70,Aurangabad
+Harsh_0304,76,61,70,Kolhapur
+Isha_0305,62,62,98,Nagpur
+Karan_0306,82,81,90,Navi Mumbai
+Kavya_0307,93,73,61,Thane
+Krishna_0308,70,63,73,Thane
+Manav_0309,95,81,96,Nashik
+Meera_0310,48,49,67,Mumbai
+Neha_0311,82,90,69,Pune
+Om_0312,40,45,100,Pune
+Pooja_0313,84,85,64,Kolhapur
+Rahul_0314,67,54,84,Mumbai
+Riya_0315,59,61,67,Pune
+Rohan_0316,64,62,65,Aurangabad
+Sakshi_0317,71,74,66,Nagpur
+Samar_0318,66,68,87,Aurangabad
+Sneha_0319,50,49,78,Pune
+Tanvi_0320,100,96,80,Navi Mumbai
+Varun_0321,75,58,86,Pune
+Vedant_0322,81,70,82,Navi Mumbai
+Yash_0323,84,100,96,Nagpur
+Zoya_0324,85,100,78,Nashik
+Aarav_0325,65,83,72,Aurangabad
+Aditi_0326,41,54,91,Mumbai
+Aditya_0327,91,76,91,Kolhapur
+Akanksha_0328,78,90,70,Aurangabad
+Amit_0329,73,60,91,Nashik
+Ananya_0330,65,49,91,Mumbai
+Aniket_0331,88,91,66,Thane
+Anjali_0332,86,67,87,Pune
+Arjun_0333,67,72,76,Thane
+Bhavna_0334,88,79,84,Nagpur
+Chetan_0335,71,86,98,Pune
+Diya_0336,78,72,93,Nashik
+Esha_0337,87,85,80,Nashik
+Farhan_0338,81,77,97,Nagpur
+Gauri_0339,56,62,75,Nagpur
+Harsh_0340,64,76,69,Nashik
+Isha_0341,76,65,98,Kolhapur
+Karan_0342,55,60,72,Aurangabad
+Kavya_0343,49,49,72,Thane
+Krishna_0344,51,58,79,Thane
+Manav_0345,61,60,100,Mumbai
+Meera_0346,61,69,89,Pune
+Neha_0347,50,53,74,Aurangabad
+Om_0348,67,73,76,Thane
+Pooja_0349,61,47,87,Thane
+Rahul_0350,73,74,97,Nagpur
+Riya_0351,86,100,67,Navi Mumbai
+Rohan_0352,75,75,100,Mumbai
+Sakshi_0353,71,78,100,Nashik
+Samar_0354,67,71,89,Pune
+Sneha_0355,90,95,71,Kolhapur
+Tanvi_0356,50,55,66,Pune
+Varun_0357,71,62,70,Nagpur
+Vedant_0358,82,76,96,Navi Mumbai
+Yash_0359,78,89,92,Pune
+Zoya_0360,89,96,81,Thane
+Aarav_0361,73,74,85,Mumbai
+Aditi_0362,88,99,63,Aurangabad
+Aditya_0363,67,69,63,Pune
+Akanksha_0364,55,57,100,Kolhapur
+Amit_0365,83,80,74,Aurangabad
+Ananya_0366,79,72,85,Navi Mumbai
+Aniket_0367,56,57,64,Nagpur
+Anjali_0368,88,87,74,Nashik
+Arjun_0369,81,82,86,Navi Mumbai
+Bhavna_0370,80,75,68,Navi Mumbai
+Chetan_0371,67,70,84,Aurangabad
+Diya_0372,86,72,90,Pune
+Esha_0373,66,64,79,Kolhapur
+Farhan_0374,83,83,99,Mumbai
+Gauri_0375,91,86,79,Thane
+Harsh_0376,43,61,80,Nashik
+Isha_0377,82,93,97,Pune
+Karan_0378,80,88,64,Aurangabad
+Kavya_0379,73,59,97,Nashik
+Krishna_0380,57,68,82,Nashik
+Manav_0381,63,70,70,Mumbai
+Meera_0382,97,100,79,Nagpur
+Neha_0383,91,77,93,Mumbai
+Om_0384,87,71,95,Mumbai
+Pooja_0385,67,63,68,Navi Mumbai
+Rahul_0386,86,72,90,Navi Mumbai
+Riya_0387,69,64,75,Navi Mumbai
+Rohan_0388,65,69,60,Nashik
+Sakshi_0389,72,78,91,Aurangabad
+Samar_0390,78,82,86,Mumbai
+Sneha_0391,69,62,100,Pune
+Tanvi_0392,58,42,81,Mumbai
+Varun_0393,85,87,69,Pune
+Vedant_0394,73,66,100,Nashik
+Yash_0395,62,72,81,Navi Mumbai
+Zoya_0396,88,79,78,Thane
+Aarav_0397,72,69,95,Pune
+Aditi_0398,65,69,91,Thane
+Aditya_0399,75,69,92,Kolhapur
+Akanksha_0400,71,68,67,Kolhapur
+Amit_0401,60,61,68,Mumbai
+Ananya_0402,52,59,85,Pune
+Aniket_0403,72,68,60,Pune
+Anjali_0404,65,71,63,Thane
+Arjun_0405,81,99,98,Mumbai
+Bhavna_0406,52,73,89,Nashik
+Chetan_0407,65,51,62,Thane
+Diya_0408,64,46,83,Nashik
+Esha_0409,74,67,79,Nashik
+Farhan_0410,65,76,61,Thane
+Gauri_0411,94,94,63,Navi Mumbai
+Harsh_0412,90,77,67,Thane
+Isha_0413,96,88,88,Mumbai
+Karan_0414,59,52,98,Nashik
+Kavya_0415,92,83,95,Mumbai
+Krishna_0416,63,60,73,Nashik
+Manav_0417,78,93,60,Pune
+Meera_0418,100,86,65,Nagpur
+Neha_0419,49,62,61,Aurangabad
+Om_0420,81,90,71,Pune
+Pooja_0421,85,67,65,Aurangabad
+Rahul_0422,95,95,89,Aurangabad
+Riya_0423,63,44,60,Pune
+Rohan_0424,58,59,65,Thane
+Sakshi_0425,66,78,70,Navi Mumbai
+Samar_0426,77,88,83,Navi Mumbai
+Sneha_0427,89,75,69,Mumbai
+Tanvi_0428,81,68,100,Thane
+Varun_0429,80,84,77,Kolhapur
+Vedant_0430,64,59,99,Kolhapur
+Yash_0431,99,78,69,Aurangabad
+Zoya_0432,88,84,84,Thane
+Aarav_0433,93,100,74,Navi Mumbai
+Aditi_0434,78,58,80,Aurangabad
+Aditya_0435,68,62,97,Pune
+Akanksha_0436,60,76,69,Aurangabad
+Amit_0437,94,90,82,Mumbai
+Ananya_0438,89,89,84,Nagpur
+Aniket_0439,61,73,63,Thane
+Anjali_0440,89,75,76,Pune
+Arjun_0441,76,81,65,Kolhapur
+Bhavna_0442,49,56,97,Aurangabad
+Chetan_0443,81,88,92,Nagpur
+Diya_0444,56,58,65,Nashik
+Esha_0445,91,95,96,Kolhapur
+Farhan_0446,87,81,69,Nagpur
+Gauri_0447,55,53,66,Kolhapur
+Harsh_0448,92,82,69,Kolhapur
+Isha_0449,76,89,77,Pune
+Karan_0450,45,52,96,Navi Mumbai
+Kavya_0451,93,83,76,Aurangabad
+Krishna_0452,68,81,97,Nashik
+Manav_0453,55,66,72,Nashik
+Meera_0454,64,64,63,Pune
+Neha_0455,84,89,91,Mumbai
+Om_0456,96,90,67,Mumbai
+Pooja_0457,64,74,74,Mumbai
+Rahul_0458,96,94,71,Navi Mumbai
+Riya_0459,59,57,74,Nashik
+Rohan_0460,48,53,63,Pune
+Sakshi_0461,49,59,90,Pune
+Samar_0462,48,56,60,Nagpur
+Sneha_0463,100,92,97,Navi Mumbai
+Tanvi_0464,82,96,80,Kolhapur
+Varun_0465,66,59,83,Navi Mumbai
+Vedant_0466,67,78,75,Nashik
+Yash_0467,81,97,72,Pune
+Zoya_0468,55,52,99,Kolhapur
+Aarav_0469,70,62,66,Thane
+Aditi_0470,59,43,88,Kolhapur
+Aditya_0471,65,75,67,Kolhapur
+Akanksha_0472,57,56,63,Nashik
+Amit_0473,97,100,69,Navi Mumbai
+Ananya_0474,55,62,86,Nagpur
+Aniket_0475,47,57,96,Aurangabad
+Anjali_0476,64,69,91,Mumbai
+Arjun_0477,72,75,67,Nashik
+Bhavna_0478,71,92,73,Navi Mumbai
+Chetan_0479,59,66,72,Kolhapur
+Diya_0480,73,74,75,Mumbai
+Esha_0481,71,77,70,Pune
+Farhan_0482,60,78,61,Navi Mumbai
+Gauri_0483,80,88,68,Navi Mumbai
+Harsh_0484,54,49,71,Kolhapur
+Isha_0485,66,80,73,Aurangabad
+Karan_0486,79,80,71,Nagpur
+Kavya_0487,88,91,98,Mumbai
+Krishna_0488,62,60,77,Nashik
+Manav_0489,55,72,100,Nagpur
+Meera_0490,84,83,60,Mumbai
+Neha_0491,100,100,86,Pune
+Om_0492,82,83,78,Navi Mumbai
+Pooja_0493,43,58,90,Nashik
+Rahul_0494,88,89,71,Kolhapur
+Riya_0495,45,53,96,Pune
+Rohan_0496,76,76,93,Mumbai
+Sakshi_0497,56,54,80,Thane
+Samar_0498,98,77,78,Mumbai
+Sneha_0499,83,87,61,Nashik
+Tanvi_0500,46,43,74,Nashik
+Varun_0501,51,59,76,Pune
+Vedant_0502,42,47,76,Pune
+Yash_0503,96,96,89,Nagpur
+Zoya_0504,96,87,82,Mumbai
+Aarav_0505,88,86,77,Mumbai
+Aditi_0506,82,87,92,Aurangabad
+Aditya_0507,48,50,85,Nashik
+Akanksha_0508,90,81,74,Nashik
+Amit_0509,98,96,85,Nashik
+Ananya_0510,59,53,86,Pune
+Aniket_0511,64,76,81,Thane
+Anjali_0512,63,68,96,Kolhapur
+Arjun_0513,80,66,80,Nashik
+Bhavna_0514,92,90,87,Pune
+Chetan_0515,64,79,71,Mumbai
+Diya_0516,71,66,92,Pune
+Esha_0517,56,67,85,Navi Mumbai
+Farhan_0518,79,81,62,Aurangabad
+Gauri_0519,100,91,100,Pune
+Harsh_0520,80,87,67,Pune
+Isha_0521,72,68,78,Mumbai
+Karan_0522,68,79,70,Mumbai
+Kavya_0523,60,59,77,Mumbai
+Krishna_0524,85,86,69,Navi Mumbai
+Manav_0525,61,51,78,Thane
+Meera_0526,83,84,75,Mumbai
+Neha_0527,81,88,99,Nagpur
+Om_0528,91,87,95,Kolhapur
+Pooja_0529,84,78,99,Navi Mumbai
+Rahul_0530,77,70,75,Kolhapur
+Riya_0531,58,70,94,Thane
+Rohan_0532,87,77,82,Nashik
+Sakshi_0533,63,72,80,Navi Mumbai
+Samar_0534,64,63,78,Pune
+Sneha_0535,44,58,64,Kolhapur
+Tanvi_0536,87,69,93,Thane
+Varun_0537,77,71,93,Nagpur
+Vedant_0538,100,87,86,Kolhapur
+Yash_0539,91,86,72,Aurangabad
+Zoya_0540,74,88,77,Nashik
+Aarav_0541,67,66,86,Mumbai
+Aditi_0542,81,89,69,Thane
+Aditya_0543,74,76,67,Thane
+Akanksha_0544,88,82,78,Kolhapur
+Amit_0545,67,70,93,Thane
+Ananya_0546,89,81,91,Thane
+Aniket_0547,75,73,94,Aurangabad
+Anjali_0548,60,67,84,Nagpur
+Arjun_0549,53,55,98,Nagpur
+Bhavna_0550,64,73,60,Pune
+Chetan_0551,49,61,91,Aurangabad
+Diya_0552,96,83,94,Thane
+Esha_0553,87,86,84,Navi Mumbai
+Farhan_0554,61,81,82,Navi Mumbai
+Gauri_0555,59,42,93,Nagpur
+Harsh_0556,57,57,92,Thane
+Isha_0557,96,99,69,Nagpur
+Karan_0558,79,78,88,Kolhapur
+Kavya_0559,98,86,70,Kolhapur
+Krishna_0560,69,62,79,Nashik
+Manav_0561,65,56,81,Thane
+Meera_0562,83,96,78,Nagpur
+Neha_0563,76,85,71,Pune
+Om_0564,96,99,66,Kolhapur
+Pooja_0565,94,96,62,Thane
+Rahul_0566,38,49,95,Pune
+Riya_0567,69,62,97,Pune
+Rohan_0568,80,88,71,Navi Mumbai
+Sakshi_0569,91,83,94,Nashik
+Samar_0570,80,89,98,Mumbai
+Sneha_0571,52,65,92,Mumbai
+Tanvi_0572,42,43,70,Navi Mumbai
+Varun_0573,86,82,63,Pune
+Vedant_0574,100,100,80,Nashik
+Yash_0575,90,96,77,Nashik
+Zoya_0576,48,62,66,Mumbai
+Aarav_0577,66,76,99,Thane
+Aditi_0578,40,48,85,Pune
+Aditya_0579,67,87,75,Nagpur
+Akanksha_0580,53,59,97,Nashik
+Amit_0581,58,74,79,Thane
+Ananya_0582,84,93,64,Nagpur
+Aniket_0583,93,100,74,Thane
+Anjali_0584,69,74,61,Nagpur
+Arjun_0585,48,50,82,Thane
+Bhavna_0586,49,60,85,Kolhapur
+Chetan_0587,55,64,84,Kolhapur
+Diya_0588,83,67,67,Thane
+Esha_0589,77,69,84,Nagpur
+Farhan_0590,76,80,75,Thane
+Gauri_0591,48,42,81,Nashik
+Harsh_0592,75,59,65,Nagpur
+Isha_0593,72,61,95,Navi Mumbai
+Karan_0594,74,74,83,Kolhapur
+Kavya_0595,74,65,84,Nagpur
+Krishna_0596,72,75,73,Nagpur
+Manav_0597,87,72,76,Navi Mumbai
+Meera_0598,86,94,75,Thane
+Neha_0599,92,84,68,Mumbai
+Om_0600,97,85,94,Aurangabad
+Pooja_0601,62,82,69,Aurangabad
+Rahul_0602,50,42,71,Nagpur
+Riya_0603,64,63,64,Kolhapur
+Rohan_0604,94,81,72,Mumbai
+Sakshi_0605,92,87,74,Aurangabad
+Samar_0606,68,60,78,Kolhapur
+Sneha_0607,77,85,100,Nashik
+Tanvi_0608,60,57,83,Kolhapur
+Varun_0609,64,80,75,Thane
+Vedant_0610,80,65,71,Aurangabad
+Yash_0611,53,66,74,Pune
+Zoya_0612,64,84,70,Thane
+Aarav_0613,74,61,69,Thane
+Aditi_0614,57,51,100,Nashik
+Aditya_0615,81,94,91,Aurangabad
+Akanksha_0616,86,85,82,Pune
+Amit_0617,69,67,78,Pune
+Ananya_0618,94,78,75,Mumbai
+Aniket_0619,50,48,82,Mumbai
+Anjali_0620,86,78,99,Nagpur
+Arjun_0621,71,59,82,Thane
+Bhavna_0622,76,84,100,Navi Mumbai
+Chetan_0623,71,78,87,Nashik
+Diya_0624,93,77,62,Aurangabad
+Esha_0625,66,56,100,Nagpur
+Farhan_0626,80,81,63,Nashik
+Gauri_0627,71,75,65,Nagpur
+Harsh_0628,87,84,68,Navi Mumbai
+Isha_0629,95,89,75,Pune
+Karan_0630,92,86,68,Kolhapur
+Kavya_0631,91,88,69,Nagpur
+Krishna_0632,79,64,95,Thane
+Manav_0633,69,54,98,Navi Mumbai
+Meera_0634,69,68,78,Pune
+Neha_0635,76,69,62,Pune
+Om_0636,64,63,67,Aurangabad
+Pooja_0637,69,73,80,Navi Mumbai
+Rahul_0638,85,80,78,Nashik
+Riya_0639,75,76,60,Navi Mumbai
+Rohan_0640,71,81,96,Aurangabad
+Sakshi_0641,64,61,87,Navi Mumbai
+Samar_0642,67,62,60,Kolhapur
+Sneha_0643,63,54,100,Aurangabad
+Tanvi_0644,86,83,68,Pune
+Varun_0645,63,53,69,Aurangabad
+Vedant_0646,66,83,93,Nashik
+Yash_0647,67,55,99,Kolhapur
+Zoya_0648,67,84,82,Kolhapur
+Aarav_0649,63,58,95,Kolhapur
+Aditi_0650,61,57,62,Mumbai
+Aditya_0651,94,88,63,Nagpur
+Akanksha_0652,82,86,70,Aurangabad
+Amit_0653,94,98,65,Nashik
+Ananya_0654,89,89,68,Navi Mumbai
+Aniket_0655,90,82,62,Navi Mumbai
+Anjali_0656,74,76,83,Pune
+Arjun_0657,59,58,87,Nashik
+Bhavna_0658,58,59,92,Thane
+Chetan_0659,61,75,60,Nashik
+Diya_0660,60,59,60,Navi Mumbai
+Esha_0661,95,87,96,Nagpur
+Farhan_0662,70,87,80,Navi Mumbai
+Gauri_0663,82,87,69,Thane
+Harsh_0664,95,80,63,Kolhapur
+Isha_0665,97,87,96,Thane
+Karan_0666,76,83,68,Aurangabad
+Kavya_0667,75,81,61,Nagpur
+Krishna_0668,73,68,65,Nashik
+Manav_0669,98,93,95,Thane
+Meera_0670,77,70,96,Navi Mumbai
+Neha_0671,71,68,74,Nashik
+Om_0672,67,55,74,Aurangabad
+Pooja_0673,82,87,93,Aurangabad
+Rahul_0674,98,92,95,Navi Mumbai
+Riya_0675,69,72,67,Mumbai
+Rohan_0676,85,68,88,Nashik
+Sakshi_0677,87,88,67,Mumbai
+Samar_0678,88,81,94,Nashik
+Sneha_0679,68,67,65,Nashik
+Tanvi_0680,85,82,63,Thane
+Varun_0681,54,66,62,Pune
+Vedant_0682,100,90,89,Aurangabad
+Yash_0683,67,51,87,Mumbai
+Zoya_0684,83,97,67,Kolhapur
+Aarav_0685,59,60,60,Aurangabad
+Aditi_0686,52,58,92,Kolhapur
+Aditya_0687,70,90,82,Mumbai
+Akanksha_0688,77,72,98,Mumbai
+Amit_0689,61,49,76,Kolhapur
+Ananya_0690,72,66,61,Navi Mumbai
+Aniket_0691,45,62,67,Mumbai
+Anjali_0692,59,60,95,Aurangabad
+Arjun_0693,100,95,69,Aurangabad
+Bhavna_0694,94,82,88,Pune
+Chetan_0695,49,45,91,Navi Mumbai
+Diya_0696,41,44,71,Thane
+Esha_0697,73,84,85,Nagpur
+Farhan_0698,93,81,83,Kolhapur
+Gauri_0699,77,82,68,Pune
+Harsh_0700,56,64,89,Kolhapur
+Isha_0701,88,88,82,Kolhapur
+Karan_0702,48,58,90,Kolhapur
+Kavya_0703,52,61,89,Pune
+Krishna_0704,82,84,77,Thane
+Manav_0705,57,73,76,Kolhapur
+Meera_0706,92,92,97,Nashik
+Neha_0707,83,100,66,Nagpur
+Om_0708,85,85,100,Mumbai
+Pooja_0709,70,70,69,Mumbai
+Rahul_0710,81,69,83,Nagpur
+Riya_0711,77,74,81,Pune
+Rohan_0712,93,95,90,Kolhapur
+Sakshi_0713,60,66,69,Nashik
+Samar_0714,51,67,85,Navi Mumbai
+Sneha_0715,81,74,70,Mumbai
+Tanvi_0716,56,58,76,Kolhapur
+Varun_0717,48,62,65,Nashik
+Vedant_0718,75,70,89,Kolhapur
+Yash_0719,95,86,91,Kolhapur
+Zoya_0720,57,59,94,Pune
+Aarav_0721,68,58,75,Pune
+Aditi_0722,52,65,88,Nagpur
+Aditya_0723,85,94,66,Nagpur
+Akanksha_0724,76,56,68,Pune
+Amit_0725,45,63,81,Nashik
+Ananya_0726,44,48,94,Pune
+Aniket_0727,88,80,73,Kolhapur
+Anjali_0728,81,60,91,Thane
+Arjun_0729,98,89,71,Pune
+Bhavna_0730,65,68,100,Kolhapur
+Chetan_0731,88,83,76,Navi Mumbai
+Diya_0732,38,50,96,Kolhapur
+Esha_0733,54,62,81,Nashik
+Farhan_0734,43,49,73,Nashik
+Gauri_0735,95,75,82,Kolhapur
+Harsh_0736,76,84,97,Nashik
+Isha_0737,99,100,81,Nagpur
+Karan_0738,85,94,62,Aurangabad
+Kavya_0739,100,98,89,Aurangabad
+Krishna_0740,77,79,77,Nashik
+Manav_0741,54,73,90,Mumbai
+Meera_0742,100,92,69,Nagpur
+Neha_0743,87,67,61,Nashik
+Om_0744,46,64,92,Nagpur
+Pooja_0745,97,80,76,Kolhapur
+Rahul_0746,52,54,93,Pune
+Riya_0747,84,69,88,Navi Mumbai
+Rohan_0748,71,64,84,Navi Mumbai
+Sakshi_0749,61,53,66,Pune
+Samar_0750,62,56,82,Pune
+Sneha_0751,70,66,86,Thane
+Tanvi_0752,100,89,61,Aurangabad
+Varun_0753,47,54,75,Nagpur
+Vedant_0754,66,72,87,Aurangabad
+Yash_0755,72,65,96,Nashik
+Zoya_0756,92,78,68,Aurangabad
+Aarav_0757,58,68,60,Navi Mumbai
+Aditi_0758,58,65,99,Navi Mumbai
+Aditya_0759,69,54,73,Kolhapur
+Akanksha_0760,64,56,71,Thane
+Amit_0761,55,48,67,Nashik
+Ananya_0762,42,49,69,Kolhapur
+Aniket_0763,68,51,89,Thane
+Anjali_0764,56,55,85,Kolhapur
+Arjun_0765,58,49,72,Pune
+Bhavna_0766,44,58,98,Nagpur
+Chetan_0767,87,79,61,Pune
+Diya_0768,60,63,67,Navi Mumbai
+Esha_0769,62,61,60,Nashik
+Farhan_0770,73,71,69,Mumbai
+Gauri_0771,82,88,64,Kolhapur
+Harsh_0772,58,55,77,Nashik
+Isha_0773,46,48,64,Pune
+Karan_0774,66,53,86,Kolhapur
+Kavya_0775,55,67,62,Navi Mumbai
+Krishna_0776,81,91,81,Thane
+Manav_0777,91,97,87,Kolhapur
+Meera_0778,85,86,69,Thane
+Neha_0779,75,68,100,Pune
+Om_0780,72,71,76,Thane
+Pooja_0781,59,58,65,Pune
+Rahul_0782,84,97,95,Kolhapur
+Riya_0783,100,97,95,Kolhapur
+Rohan_0784,85,69,90,Navi Mumbai
+Sakshi_0785,80,90,94,Thane
+Samar_0786,73,67,82,Mumbai
+Sneha_0787,79,73,99,Kolhapur
+Tanvi_0788,62,61,74,Aurangabad
+Varun_0789,69,67,93,Navi Mumbai
+Vedant_0790,81,80,64,Kolhapur
+Yash_0791,77,89,70,Kolhapur
+Zoya_0792,74,60,69,Navi Mumbai
+Aarav_0793,69,71,62,Kolhapur
+Aditi_0794,73,77,67,Thane
+Aditya_0795,69,57,84,Mumbai
+Akanksha_0796,72,79,93,Aurangabad
+Amit_0797,87,70,77,Thane
+Ananya_0798,70,61,88,Navi Mumbai
+Aniket_0799,73,67,69,Pune
+Anjali_0800,85,94,91,Nagpur
+Arjun_0801,88,95,81,Thane
+Bhavna_0802,54,73,72,Pune
+Chetan_0803,82,77,97,Nashik
+Diya_0804,79,76,77,Kolhapur
+Esha_0805,61,64,88,Mumbai
+Farhan_0806,91,88,65,Nagpur
+Gauri_0807,59,57,99,Kolhapur
+Harsh_0808,62,56,84,Kolhapur
+Isha_0809,62,51,86,Thane
+Karan_0810,98,89,82,Nagpur
+Kavya_0811,80,68,99,Nagpur
+Krishna_0812,100,96,64,Nagpur
+Manav_0813,61,63,88,Thane
+Meera_0814,79,78,91,Pune
+Neha_0815,62,64,89,Navi Mumbai
+Om_0816,95,97,90,Nashik
+Pooja_0817,56,56,91,Nashik
+Rahul_0818,94,72,74,Nagpur
+Riya_0819,80,66,78,Kolhapur
+Rohan_0820,86,78,67,Mumbai
+Sakshi_0821,54,72,60,Mumbai
+Samar_0822,71,77,96,Navi Mumbai
+Sneha_0823,62,49,81,Navi Mumbai
+Tanvi_0824,58,56,97,Nashik
+Varun_0825,65,86,69,Kolhapur
+Vedant_0826,65,77,60,Nashik
+Yash_0827,80,90,76,Mumbai
+Zoya_0828,70,68,79,Thane
+Aarav_0829,83,73,79,Aurangabad
+Aditi_0830,65,68,94,Aurangabad
+Aditya_0831,63,63,63,Nagpur
+Akanksha_0832,92,85,89,Navi Mumbai
+Amit_0833,100,89,83,Kolhapur
+Ananya_0834,64,69,63,Kolhapur
+Aniket_0835,55,42,86,Kolhapur
+Anjali_0836,48,49,88,Aurangabad
+Arjun_0837,72,58,97,Navi Mumbai
+Bhavna_0838,86,79,73,Nagpur
+Chetan_0839,46,56,100,Mumbai
+Diya_0840,45,45,98,Navi Mumbai
+Esha_0841,49,68,70,Navi Mumbai
+Farhan_0842,73,63,73,Nashik
+Gauri_0843,71,55,93,Mumbai
+Harsh_0844,70,75,65,Pune
+Isha_0845,71,74,88,Thane
+Karan_0846,48,53,62,Nashik
+Kavya_0847,75,75,97,Kolhapur
+Krishna_0848,100,89,79,Aurangabad
+Manav_0849,75,66,69,Nagpur
+Meera_0850,64,75,84,Nashik
+Neha_0851,88,88,94,Mumbai
+Om_0852,64,56,71,Thane
+Pooja_0853,80,73,67,Pune
+Rahul_0854,63,68,93,Mumbai
+Riya_0855,71,69,61,Navi Mumbai
+Rohan_0856,49,60,77,Aurangabad
+Sakshi_0857,94,95,65,Nagpur
+Samar_0858,61,56,74,Aurangabad
+Sneha_0859,58,61,66,Pune
+Tanvi_0860,66,66,79,Pune
+Varun_0861,59,62,88,Navi Mumbai
+Vedant_0862,63,66,71,Mumbai
+Yash_0863,59,76,89,Mumbai
+Zoya_0864,76,80,98,Thane
+Aarav_0865,68,70,62,Mumbai
+Aditi_0866,84,70,86,Kolhapur
+Aditya_0867,53,49,83,Nashik
+Akanksha_0868,82,92,60,Navi Mumbai
+Amit_0869,61,67,66,Mumbai
+Ananya_0870,56,59,91,Aurangabad
+Aniket_0871,89,77,80,Navi Mumbai
+Anjali_0872,58,73,94,Pune
+Arjun_0873,78,83,72,Aurangabad
+Bhavna_0874,80,71,68,Nagpur
+Chetan_0875,88,81,66,Pune
+Diya_0876,45,61,96,Nagpur
+Esha_0877,100,91,65,Nashik
+Farhan_0878,55,49,87,Thane
+Gauri_0879,93,82,78,Mumbai
+Harsh_0880,64,63,73,Nagpur
+Isha_0881,72,71,63,Nagpur
+Karan_0882,61,54,66,Pune
+Kavya_0883,70,58,79,Kolhapur
+Krishna_0884,67,59,97,Nashik
+Manav_0885,48,53,86,Pune
+Meera_0886,50,49,92,Nashik
+Neha_0887,58,53,73,Nagpur
+Om_0888,73,64,64,Pune
+Pooja_0889,69,85,93,Kolhapur
+Rahul_0890,66,63,100,Mumbai
+Riya_0891,70,53,83,Thane
+Rohan_0892,63,56,97,Nashik
+Sakshi_0893,90,86,68,Aurangabad
+Samar_0894,91,85,89,Nashik
+Sneha_0895,77,87,92,Aurangabad
+Tanvi_0896,92,97,100,Mumbai
+Varun_0897,50,51,75,Nagpur
+Vedant_0898,89,94,75,Navi Mumbai
+Yash_0899,95,77,85,Thane
+Zoya_0900,99,90,84,Thane
+Aarav_0901,50,65,81,Thane
+Aditi_0902,57,68,91,Pune
+Aditya_0903,60,60,86,Aurangabad
+Akanksha_0904,71,79,94,Nagpur
+Amit_0905,54,57,89,Pune
+Ananya_0906,66,60,77,Nashik
+Aniket_0907,96,97,94,Nagpur
+Anjali_0908,51,67,62,Thane
+Arjun_0909,61,59,81,Nashik
+Bhavna_0910,66,70,82,Thane
+Chetan_0911,72,69,92,Nagpur
+Diya_0912,60,66,60,Pune
+Esha_0913,52,58,89,Aurangabad
+Farhan_0914,81,65,95,Thane
+Gauri_0915,70,56,86,Mumbai
+Harsh_0916,89,82,88,Aurangabad
+Isha_0917,67,67,100,Thane
+Karan_0918,92,74,91,Navi Mumbai
+Kavya_0919,83,63,63,Mumbai
+Krishna_0920,85,89,79,Nashik
+Manav_0921,99,92,62,Kolhapur
+Meera_0922,72,70,77,Nashik
+Neha_0923,68,70,92,Pune
+Om_0924,68,83,77,Nagpur
+Pooja_0925,80,75,61,Thane
+Rahul_0926,86,95,65,Thane
+Riya_0927,91,82,77,Kolhapur
+Rohan_0928,66,65,63,Kolhapur
+Sakshi_0929,52,64,63,Nashik
+Samar_0930,80,75,70,Aurangabad
+Sneha_0931,59,52,84,Kolhapur
+Tanvi_0932,87,92,79,Navi Mumbai
+Varun_0933,69,62,88,Thane
+Vedant_0934,65,54,83,Thane
+Yash_0935,70,75,77,Mumbai
+Zoya_0936,70,67,92,Thane
+Aarav_0937,83,90,62,Nashik
+Aditi_0938,79,74,90,Thane
+Aditya_0939,50,56,83,Thane
+Akanksha_0940,80,93,67,Aurangabad
+Amit_0941,90,68,62,Aurangabad
+Ananya_0942,79,73,76,Nagpur
+Aniket_0943,59,47,98,Thane
+Anjali_0944,86,94,70,Nashik
+Arjun_0945,100,83,85,Thane
+Bhavna_0946,71,73,91,Kolhapur
+Chetan_0947,65,66,94,Thane
+Diya_0948,89,86,73,Kolhapur
+Esha_0949,83,96,64,Pune
+Farhan_0950,95,83,96,Thane
+Gauri_0951,69,83,77,Nashik
+Harsh_0952,54,56,92,Mumbai
+Isha_0953,57,78,84,Aurangabad
+Karan_0954,66,60,99,Aurangabad
+Kavya_0955,85,100,98,Aurangabad
+Krishna_0956,82,85,79,Mumbai
+Manav_0957,82,81,65,Kolhapur
+Meera_0958,61,57,64,Mumbai
+Neha_0959,64,60,89,Nashik
+Om_0960,74,84,63,Navi Mumbai
+Pooja_0961,92,96,62,Pune
+Rahul_0962,86,77,90,Nagpur
+Riya_0963,76,68,81,Nagpur
+Rohan_0964,68,59,78,Pune
+Sakshi_0965,76,59,61,Aurangabad
+Samar_0966,76,69,100,Aurangabad
+Sneha_0967,61,48,85,Thane
+Tanvi_0968,88,85,74,Pune
+Varun_0969,78,73,76,Mumbai
+Vedant_0970,94,99,68,Thane
+Yash_0971,88,88,89,Nagpur
+Zoya_0972,78,67,67,Thane
+Aarav_0973,57,56,64,Pune
+Aditi_0974,90,74,72,Aurangabad
+Aditya_0975,67,61,61,Pune
+Akanksha_0976,53,50,86,Pune
+Amit_0977,100,100,94,Aurangabad
+Ananya_0978,84,95,70,Kolhapur
+Aniket_0979,69,65,62,Nashik
+Anjali_0980,93,97,61,Navi Mumbai
+Arjun_0981,54,49,69,Kolhapur
+Bhavna_0982,83,72,81,Kolhapur
+Chetan_0983,72,73,93,Aurangabad
+Diya_0984,82,78,82,Aurangabad
+Esha_0985,80,88,77,Thane
+Farhan_0986,67,77,68,Nashik
+Gauri_0987,41,46,97,Thane
+Harsh_0988,39,43,89,Pune
+Isha_0989,69,70,64,Kolhapur
+Karan_0990,78,78,89,Navi Mumbai
+Kavya_0991,84,80,75,Nagpur
+Krishna_0992,72,65,66,Nashik
+Manav_0993,64,66,96,Navi Mumbai
+Meera_0994,60,45,90,Nashik
+Neha_0995,83,72,90,Navi Mumbai
+Om_0996,80,81,91,Thane
+Pooja_0997,64,51,74,Pune
+Rahul_0998,81,72,100,Pune
+Riya_0999,56,61,60,Pune
+Rohan_1000,68,81,75,Nagpur
